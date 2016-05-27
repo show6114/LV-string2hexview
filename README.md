@@ -3,7 +3,7 @@ LV-string2hex-view
 
 Render LabVIEW string into hex display. 
 
-[中文版](READMD_chi.md)
+[中文版](README_chi.md)
 
 ## How does it work?
 
