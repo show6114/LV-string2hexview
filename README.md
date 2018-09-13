@@ -1,6 +1,8 @@
 LV-string2hex-view
 ==
 
+[中文版](README_chi.md)
+
 Render LabVIEW string into hex display.
 
 ## How does it work?

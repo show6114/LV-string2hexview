@@ -1,6 +1,8 @@
 LV-string2hex-view
 ==
 
+[English version](README.md)
+
 將 LabVIEW 字串用 hex viewer 的方式呈現
 
 ## 如何運作？
